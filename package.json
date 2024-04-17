@@ -14,6 +14,7 @@
   "author": "daffamrizqi",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^5.12.1",
     "express": "^4.19.2",
     "winston": "^3.13.0",
     "zod": "^3.22.4"
